@@ -13,6 +13,7 @@ use core::cell::UnsafeCell;
 pub mod phy;
 pub mod addr;
 pub mod ip;
+pub mod socket;
 
 /// The address family.
 ///
